@@ -1,7 +1,7 @@
 ## NextJs Web Application : Car Rent Service Web Application
 ### Live Browser 👉 [https://carforrent.vercel.app/](https://carforrent.vercel.app/)
 ### Tools 
-- Front End: NextJs, React, Tailwind, Headlessui
+- Front End: NextJs, React, Typescript, Tailwind, Headlessui
 - Back End :
     - Rapid Api Service to fetch data
     - Imagin.studio to fetch images
